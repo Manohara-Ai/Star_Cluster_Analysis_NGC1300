@@ -2,6 +2,8 @@
 
 This project involves the analysis of star clusters within the NGC 1300 galaxy, using photometric data and theoretical evolutionary tracks to classify clusters by age and symmetry. The analysis also includes overlaying young, middle-aged, and old-aged clusters over CO moment maps from ALMA to study their distribution within the galaxy.
 
+The same code can be used to study star clusters in other nearby galaxies, but this project illustrates NGC 1300 as an example.
+
 ## Table of Contents
 
 - Introduction
@@ -16,11 +18,15 @@ This project aims to understand the properties and distributions of star cluster
 
 ## Usage
 
-Helps the user to gain basic knowledge about few data analysis techniques: Aperture Photometry, Color Magnitude diagrams and helps develop solid understanding about star clusters. Please download the relavant data from the mentioned data sources and change the path to files according in the .ipynb file, since this code can be generalized to any galaxy, I shall not upload my data source file.
+Helps the user to gain basic knowledge about few data analysis techniques: Aperture Photometry, Color Magnitude diagrams and helps develop solid understanding about star clusters. 
+
+Please download the relavant data from the mentioned data sources and change the path to files according in the .ipynb file, since this code can be generalized to any galaxy, I shall not upload my data file.
 
 ## Data Sources
 
-The data used in this project was all taken from PHANGS-HST archive and Alma space archive.
+The data used in this project was all taken from open source data archives like:
+- [PHANGS-HST](https://archive.stsci.edu/hlsp/phangs/phangs-hst)
+- [Alma Space archive](https://www.canfar.net/storage/vault/list/phangs/RELEASES/PHANGS-ALMA/by_galaxy)
 
 ## Results
 
