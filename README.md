@@ -16,7 +16,7 @@ This project aims to understand the properties and distributions of star cluster
 
 ## Usage
 
-Helps the user to gain basic knowledge about few data analysis techniques: Aperture Photometry, Color Magnitude diagrams and helps develop solid understanding about star clusters.
+Helps the user to gain basic knowledge about few data analysis techniques: Aperture Photometry, Color Magnitude diagrams and helps develop solid understanding about star clusters. Please download the relavant data from the mentioned data sources and change the path to files according in the .ipynb file, since this code can be generalized to any galaxy, I shall not upload my data source file.
 
 ## Data Sources
 
