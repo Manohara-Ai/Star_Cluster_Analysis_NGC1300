@@ -30,7 +30,7 @@ The data used in this project was all taken from open source data archives like:
 
 ## Results
 
-The analysis revealed that:
+The analysis of star clusters in NGC1300 revealed that:
 
 - Young clusters (1-100 million years) are concentrated on the arms of the galaxy.
 - Middle-aged clusters are found between the arms and the galactic center.
