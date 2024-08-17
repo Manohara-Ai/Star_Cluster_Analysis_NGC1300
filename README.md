@@ -28,7 +28,7 @@ The data used in this project was all taken from open source data archives like:
 - [PHANGS-HST](https://archive.stsci.edu/hlsp/phangs/phangs-hst)
 - [Alma Space archive](https://www.canfar.net/storage/vault/list/phangs/RELEASES/PHANGS-ALMA/by_galaxy)
 
-The thoeritical tracks used in the project has been uploaded in the data.zip file
+The thoeretical tracks used in the project has been uploaded in the data.zip file
 
 ## Results
 
